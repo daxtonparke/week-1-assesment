@@ -29,4 +29,6 @@ if (faveNum===13){
   Write a for loop that prints out your faveNum 5 times.
 */
 
-//CODE HERE
+for (i=0;i<5;i++){
+  console.log(faveNum)
+}
