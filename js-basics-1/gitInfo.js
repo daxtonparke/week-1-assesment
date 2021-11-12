@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = 'git is a version tracker'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = 'github is a cloud storage system that works with git to create backupups that are saved remotely'
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
@@ -33,7 +33,7 @@
     following the guidelines above to describe the init command.
 */
 
-//CODE HERE
+let init = "init initializes a reppository in your current location"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@
     following the guidelines above to describe the clone command.
 */
 
-//CODE HERE
+let clone = "clone duplicates a remote reppository onto your device"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -49,7 +49,7 @@
     following the guidelines above to describe the status command.
 */
 
-//CODE HERE
+let status = 'gives info on current location about git repo'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -57,7 +57,7 @@
     following the guidelines above to describe the add command.
 */
 
-//CODE HERE
+let add = 'adds mentioned files to git'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,7 +65,7 @@
     following the guidelines above to describe the commit command.
 */
 
-//CODE HERE
+let commit = 'creates a snapshot of file and saves to git'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -74,4 +74,4 @@
     following the guidelines above to describe the push command.
 */
 
-//CODE HERE
+let push = 'pushes saved files from git to github'
